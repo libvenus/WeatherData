@@ -103,6 +103,7 @@ sub getWeatherData {
 	return \@weatherData;
 }
 
+#Private method to cook weather data if we are not able to do so via the web API
 #If the city is near equator(abs(lat) > 45) and is near the coast the weather
 #should in general be hot and humid depending on which part of the year we are in.
 #In general, if we are in period Mar-Oct it should be hot else cold, specially for
