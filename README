@@ -1,3 +1,5 @@
+Perl choosen as langugae of choice as it is functional in nature similar to Scala.
+
 Steps to build and run this app:
 1. Copy all the files in the repo in the same directory
 2. Run ./weatherdatasimulatop.pl -h for help on how to run the application
