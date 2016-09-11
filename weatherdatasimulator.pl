@@ -4,7 +4,7 @@
 ##2. Think of a way to get rid of hard coding in _extractWeatherData
 ##3. Randomize date - DONE
 ##4. Add WeatherData Class - DONE
-##5. Add unit test
+##5. Add unit test - DONE
 ##6. Add comments - DONE
 
 use strict;
