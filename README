@@ -1,8 +1,8 @@
 Steps to build and run this app:
 1. Copy all the files in the repo in the same directory
-2. Run the weatheardatasimulator.pl with -p <NOOFRECORDS> option
+2. Run ./weatherdatasimulatop.pl -h for help on how to run the application
 3. Change directory to the directory containing all the files created in step 1
-4. Run ./weatherdatasimulatop.pl -h for help on how to run the application
+4. Run the weatheardatasimulator.pl with -p <NOOFRECORDS> option
 
 Note:- The Application has been run and tested on Perl version 5.24. This version
 already has all the pre-requisite libraries already installed in the core distribution
